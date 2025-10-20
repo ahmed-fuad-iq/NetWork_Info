@@ -21,8 +21,7 @@ A **Python GUI application (Tkinter)** that gathers and displays detailed networ
 
 ## 🖼️ Screenshot
 
-*(Add your own screenshot here — for example:)*  
-![Network Information Tool GUI](./2025-10-20 21-58-58.png)
+![image](https://github.com/ahmed-fuad-iq/NetWork_Info/assets/12345678/abcd1234efgh)
 
 ---
 
